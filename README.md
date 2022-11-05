@@ -1,4 +1,4 @@
-# WeatherProject
+# Secrets-App
 
 This project showcases some well known authentication techniques. It requires the user to login or register before showing them the "secret" content. Everything is safe and encrypted. For even more safety the user can also use his/her google account to login.
 

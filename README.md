@@ -31,3 +31,6 @@ This project showcases some well known authentication techniques. It requires th
 This project is licensed under the [GNU General Public License v3.0](LICENSE.md)
 Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
 details.
+
+## Comment
+Facebook (and Twitter) login is not supported yet!

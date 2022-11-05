@@ -17,6 +17,7 @@ This project showcases some well known authentication techniques. It requires th
 ## Built With
 
   - HTML
+  - EJS
   - CSS
   - Bootstrap
   - JS
